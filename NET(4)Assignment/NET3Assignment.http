@@ -1,0 +1,6 @@
+@NET3Assignment_HostAddress = http://localhost:5181
+
+GET {{NET3Assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

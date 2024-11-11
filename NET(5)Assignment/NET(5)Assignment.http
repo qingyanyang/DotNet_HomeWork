@@ -1,0 +1,6 @@
+@NET_5_Assignment_HostAddress = http://localhost:5173
+
+GET {{NET_5_Assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,84 @@
+2024-11-02 19:18:21.6269 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-02 19:18:21.6269 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-02 19:18:21.6379 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-02 19:18:21.6379 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-02 19:18:21.6379 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-02 19:18:21.6522 Info Configuration initialized.
+2024-11-02 19:24:35.1894 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-02 19:24:35.1986 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-02 19:24:35.1986 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-02 19:24:35.2093 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-02 19:24:35.2093 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-02 19:24:35.2093 Info Configuration initialized.
+2024-11-03 00:14:40.3586 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-03 00:14:40.3800 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-03 00:14:40.3800 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-03 00:14:40.3984 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-03 00:14:40.3984 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-03 00:14:40.3984 Info Configuration initialized.
+2024-11-03 19:34:48.7112 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-03 19:34:48.9597 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-03 19:34:49.4370 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-03 19:34:49.5556 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-03 19:34:49.9313 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-03 19:34:50.1206 Info Configuration initialized.
+2024-11-04 14:16:30.0298 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-04 14:16:30.0607 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-04 14:16:30.0607 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-04 14:16:30.3241 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-04 14:16:30.3241 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-04 14:16:30.3363 Info Configuration initialized.
+2024-11-04 16:38:23.8808 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-04 16:38:23.8940 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-04 16:38:23.9122 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-04 16:38:23.9388 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-04 16:38:23.9538 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-04 16:38:23.9752 Info Configuration initialized.
+2024-11-04 19:39:52.0670 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-04 19:39:52.0999 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-04 19:39:52.1096 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-04 19:39:52.1096 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-04 19:39:52.1205 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-04 19:39:52.1205 Info Configuration initialized.
+2024-11-04 19:40:55.8069 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-04 19:40:55.8157 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-04 19:40:55.8157 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-04 19:40:55.8365 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-04 19:40:55.8411 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-04 19:40:55.8411 Info Configuration initialized.
+2024-11-04 19:42:33.7925 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-04 19:42:33.8015 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-04 19:42:33.8015 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-04 19:42:33.8212 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-04 19:42:33.8318 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-04 19:42:33.8443 Info Configuration initialized.
+2024-11-04 19:49:12.8349 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-04 19:49:12.8456 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-04 19:49:12.8456 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-04 19:49:12.8622 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-04 19:49:12.8681 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-04 19:49:12.8681 Info Configuration initialized.
+2024-11-07 19:57:50.5893 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-07 19:57:50.6041 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-07 19:57:50.6166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-07 19:57:50.6256 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-07 19:57:50.6256 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-07 19:57:50.6256 Info Configuration initialized.
+2024-11-07 20:00:29.3571 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-07 20:00:29.3571 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-07 20:00:29.3718 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-07 20:00:29.3718 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-07 20:00:29.3718 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-07 20:00:29.3878 Info Configuration initialized.
+2024-11-07 20:01:06.6412 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-07 20:01:06.6412 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-07 20:01:06.6523 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-07 20:01:06.6523 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-07 20:01:06.6523 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-07 20:01:06.6703 Info Configuration initialized.
+2024-11-07 20:01:27.2632 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-11-07 20:01:27.2775 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-11-07 20:01:27.2775 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-07 20:01:27.3028 Info Validating config: TargetNames=allfile, ConfigItems=47, FilePath=C:\Users\yangq\source\repos\Net(6)Assignment\NLog.config
+2024-11-07 20:01:27.3235 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2024-11-07 20:01:27.4531 Info Configuration initialized.

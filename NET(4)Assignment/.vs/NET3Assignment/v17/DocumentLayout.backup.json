@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yangq\\source\\repos\\NET(4)Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFD79AC-703F-4F19-96EA-0A0EA21EDA7D}|NET3Assignment.csproj|c:\\users\\yangq\\source\\repos\\net(4)assignment\\common\\commonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFD79AC-703F-4F19-96EA-0A0EA21EDA7D}|NET3Assignment.csproj|solutionrelative:common\\commonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yangq\\source\\repos\\NET(4)Assignment\\Common\\CommonResponse.cs",
+              "RelativeDocumentMoniker": "Common\\CommonResponse.cs",
+              "ToolTip": "C:\\Users\\yangq\\source\\repos\\NET(4)Assignment\\Common\\CommonResponse.cs",
+              "RelativeToolTip": "Common\\CommonResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:50:59.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
