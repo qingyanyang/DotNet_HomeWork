@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET3Assignment", "NET3Assignment.csproj", "{BCFD79AC-703F-4F19-96EA-0A0EA21EDA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCFD79AC-703F-4F19-96EA-0A0EA21EDA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFD79AC-703F-4F19-96EA-0A0EA21EDA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFD79AC-703F-4F19-96EA-0A0EA21EDA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFD79AC-703F-4F19-96EA-0A0EA21EDA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B196E224-CC25-4917-BCD5-78B645EF04F7}
+	EndGlobalSection
+EndGlobal
