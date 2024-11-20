@@ -50,22 +50,22 @@
 
 ## Assignment 07：
 
-1. Create a xUnit test project for the Web API project, which is from the Lecture Web API project
-2. Add package moq to the xUnit test project
-3. Decide which controller/service need the unit test (for public method)
-4. Write the unit test for your selected API methods, if possible, can write you own public methods including the logic or calculation, which is better feasible for unit test
+    1. Create a xUnit test project for the Web API project, which is from the Lecture Web API project
+    2. Add package moq to the xUnit test project
+    3. Decide which controller/service need the unit test (for public method)
+    4. Write the unit test for your selected API methods, if possible, can write you own public methods including the logic or calculation, which is better feasible for unit test
 
-- Given a few examples:
+    - Given a few examples:
 
-_UserController.TestServcies method,_
+    _UserController.TestServcies method,_
 
-_TeacherController.Post method,_
+    _TeacherController.Post method,_
 
-_TeacherService.GetUser method_
+    _TeacherService.GetUser method_
 
-1. Trying to use moq package to simulate the DBContext –e.g.CourseCategoryService.Add method in unit test
-2. Trying to use some fake external API in your Web API methods and write the unit test to mock this external API.
+    1. Trying to use moq package to simulate the DBContext –e.g.CourseCategoryService.Add method in unit test
+    2. Trying to use some fake external API in your Web API methods and write the unit test to mock this external API.
 
-Below are some candidates could be used from the fake external API - https://jsonplaceholder.typicode.com
+    Below are some candidates could be used from the fake external API - https://jsonplaceholder.typicode.com
 
-1. Trying to run the power shell script and generate the report - please go through the ps script and remember to replace the below value to your solution name
+    1. Trying to run the power shell script and generate the report - please go through the ps script and remember to replace the below value to your solution name
